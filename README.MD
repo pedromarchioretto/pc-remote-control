@@ -27,7 +27,7 @@ Execute o arquivo `root.py` e aguarde a página web Flask abrir:
   * Debugger PIN: 573-136-984
 ```
 
-Quando o servidor Flask estiver levantado, abra a página web pelo celular com o link `http://127.0.0.1:5000`. Agora só clicar no ícone do app que você deseja abrir. <br> <BR>
+Quando o servidor Flask estiver levantado, abra a página web pelo celular com o segundo link dsponível. Agora só clicar no ícone do app que você deseja abrir. <br> <BR>
 `LEMBRE-SE DE TER EM SEU COMPUTADOR, TODOS OS APPS QUE ESTÃO LISTADOS A SEGUIR:`
 ```
   - Microsoft Edge
